@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": 2014227030,
+            "url": "http://m801.music.126.net/20230628005027/e254c8529cc1be7161e0cde5d138dba7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/23971273079/8947/badf/24ad/ea225c1b15b91707127d50fe62d6e01c.mp3",
+            "br": 128002,
+            "size": 3330342,
+            "md5": "ea225c1b15b91707127d50fe62d6e01c",
+            "code": 200,
+            "expi": 1200,
+            "type": "mp3",
+            "gain": -8.3461,
+            "peak": 1,
+            "fee": 8,
+            "uf": null,
+            "payed": 0,
+            "flag": 458757,
+            "canExtend": false,
+            "freeTrialInfo": null,
+            "level": "standard",
+            "encodeType": "mp3",
+            "freeTrialPrivilege": {
+                "resConsumable": false,
+                "userConsumable": false,
+                "listenType": null,
+                "cannotListenReason": null
+            },
+            "freeTimeTrialPrivilege": {
+                "resConsumable": false,
+                "userConsumable": false,
+                "type": 0,
+                "remainTime": 0
+            },
+            "urlSource": 0,
+            "rightSource": 0,
+            "podcastCtrp": null,
+            "effectTypes": null,
+            "time": 208065
+        }
+    ],
+    "code": 200
+}
